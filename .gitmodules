@@ -1,0 +1,7 @@
+[submodule "scorecard-frontend"]
+	path = scorecard-frontend
+	url = git@github.com:jackismoe/scorecard-frontend.git
+
+[submodule "scorecard-backend"]
+	path = scorecard-backend
+	url = git@github.com:jackismoe/scorecard-backend.git
